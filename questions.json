@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Melyik évben volt a honfoglalás?",
+    "answers": ["896", "997", "829", "1045"],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Mi Magyarország fővárosa?",
+    "answers": ["Győr", "Debrecen", "Budapest", "Pécs"],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Ki volt az első magyar király?",
+    "answers": ["IV. Béla", "Szent István", "Koppány", "Árpád"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik folyó folyik Budapesten keresztül?",
+    "answers": ["Tisza", "Duna", "Rába", "Maros"],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik évben volt a mohácsi csata?",
+    "answers": ["1541", "1526", "1552", "1514"],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Ki írta a Himnuszt?",
+    "answers": ["Arany János", "Vörösmarty Mihály", "Petőfi Sándor", "Kölcsey Ferenc"],
+    "correct": 3,
+    "difficulty": 6
+  },
+  {
+    "question": "Melyik a legnagyobb magyar tó?",
+    "answers": ["Fertő-tó", "Tisza-tó", "Balaton", "Velencei-tó"],
+    "correct": 2,
+    "difficulty": 7
+  },
+  {
+    "question": "Melyik ország fővárosa Berlin?",
+    "answers": ["Ausztria", "Svájc", "Németország", "Dánia"],
+    "correct": 2,
+    "difficulty": 8
+  },
+  {
+    "question": "Ki festette a Mona Lisát?",
+    "answers": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Caravaggio"],
+    "correct": 2,
+    "difficulty": 9
+  },
+  {
+    "question": "Melyik a legnagyobb bolygó a Naprendszerben?",
+    "answers": ["Föld", "Jupiter", "Szaturnusz", "Mars"],
+    "correct": 1,
+    "difficulty": 10
+  },
+  {
+    "question": "Ki volt Newton?",
+    "answers": ["Felfedező", "Zenész", "Fizikus", "Író"],
+    "correct": 2,
+    "difficulty": 11
+  },
+  {
+    "question": "Melyik országban található a Nagy Fal?",
+    "answers": ["Japán", "Kína", "Korea", "Mongólia"],
+    "correct": 1,
+    "difficulty": 12
+  },
+  {
+    "question": "Melyik elem vegyjele az O?",
+    "answers": ["Arany", "Oxigén", "Oszmium", "Ólom"],
+    "correct": 1,
+    "difficulty": 13
+  },
+  {
+    "question": "Melyik évben kezdődött a második világháború?",
+    "answers": ["1945", "1939", "1918", "1929"],
+    "correct": 1,
+    "difficulty": 14
+  },
+  {
+    "question": "Ki alkotta meg a relativitáselméletet?",
+    "answers": ["Einstein", "Tesla", "Bohr", "Heisenberg"],
+    "correct": 0,
+    "difficulty": 15
+  }
+]
